@@ -1,5 +1,25 @@
 import re
+import functools
 
+#Quitar tildes
+#######################################
+def quitar_tildes(s):
+    replacements = (
+        ("á", "a"),
+        ("é", "e"),
+        ("í", "i"),
+        ("ó", "o"),
+        ("ú", "u"),
+     )
+    for a, b in replacements:
+        s = s.replace(a, b).replace(a.upper(), b.upper())
+    return s
+
+def  gen_comment(name)
+
+
+
+#Detecta nombres masculinos
 def check_chico(name):
   for x in NOMBRES_MAS:
     if re.match(x, name, re.IGNORECASE ):
