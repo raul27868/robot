@@ -15,8 +15,11 @@ def quitar_tildes(s):
         s = s.replace(a, b).replace(a.upper(), b.upper())
     return s
 
-def  gen_comment(name):
-    None
+
+
+def gen_comment(name):
+    
+  return functools.reduce(lambda x,y : x+y , [ random.choice(COMENTARIOS[i]) for i in range(len(COMENTARIOS)) ] ).replace('~nombre~', name)
 
 
 
@@ -27,6 +30,53 @@ def check_chico(name):
       return x
   return False
 
+
+#Opciones para comentarios
+COMENTARIOS=(
+(
+'Hola ~nombre~. ',
+'Guau ~nombre~!!. ',
+'Espectacular ~nombre~. ',
+'Sensacional ~nombre~!!! ',
+'Fantastica ~nombre~. ',
+),
+(
+'Buena foto! ',
+'Buenisima toma. ',
+'Genial trabajo. ',
+'Genial toma!! ',
+),
+(
+'Me ha encantado. ',
+'Me gusto!! ',
+'Me encanto. ',
+'Me ha gustado mucho. ',
+),
+(
+'Una estrella para esta foto. ',
+'Estrella que te envio. ',
+'Te mando una estrella. ',
+'Mereces una estrella. Ahi va.  ',
+),
+(
+'Espero verte por',
+'Te animo a que me visites',
+'Que tal una visita por',
+'No te pierdas',
+),
+(
+  ' mi ficha. ',
+  ' mi perfil. ' ,
+  ' mis fotos. ',
+),
+(
+ 'Gracias!!!',
+ 'Muchas Gracias!',
+ 'Thanks',
+)
+)
+
+#Nombres Masculinos
 NOMBRES_MAS = (
 "^Aar[óo]n[ \$]",
 "^Abdal[áa][ \$]",
