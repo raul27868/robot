@@ -1,3 +1,5 @@
+import re
+
 def check_chico(name):
   for x in NOMBRES_MAS:
     if re.match(x, name, re.IGNORECASE ):
