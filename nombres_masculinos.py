@@ -1,3 +1,9 @@
+def check_chico(name):
+  for x in NOMBRES_MAS:
+    if re.match(x, name, re.IGNORECASE ):
+      return x
+  return False
+
 NOMBRES_MAS = (
 "^Aar[óo]n[ \$]",
 "^Abdal[áa][ \$]",
