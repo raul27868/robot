@@ -15,7 +15,8 @@ def quitar_tildes(s):
         s = s.replace(a, b).replace(a.upper(), b.upper())
     return s
 
-def  gen_comment(name)
+def  gen_comment(name):
+    None
 
 
 
