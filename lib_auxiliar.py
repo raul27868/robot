@@ -2,6 +2,16 @@ import re
 import functools
 import random
 
+from datetime import date,datetime
+import pytz  #Zonas horarias
+
+
+#Funcion para devolver fecha y hora
+#######################################
+def get_date(format="%d/%m/%Y %H:%M:%S"):
+  return datetime.now(pytz.timezone('Europe/Madrid')).strftime(format)
+
+
 #Quitar tildes
 #######################################
 def quitar_tildes(s):
