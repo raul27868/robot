@@ -936,6 +936,7 @@ NOMBRES_MAS = (
 "^Miguel[ \$]",
 "^Mijael[ \$]",
 "^Mikael[ \$]",
+"^Mikel[ \$]",  
 "^Milan[ \$]",
 "^Miles[ \$]",
 "^Milla[ \$]",
