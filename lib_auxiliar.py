@@ -1220,6 +1220,7 @@ NOMBRES_MAS = (
 "^Ruperto[ \$]",
 "^Rutilio[ \$]",
 "^Ruy[ \$]",
+"^Ruyman[ \$]",
 "^Ryan[ \$]",
 "^Sabas[ \$]",
 "^Sabino[ \$]",
