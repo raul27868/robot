@@ -433,6 +433,7 @@ NOMBRES_MAS = (
 "^Efra[íi]n[ \$]",
 "^Egidio[ \$]",
 "^Egisto[ \$]",
+"^Egoitz[ \$]",
 "^Eimi[ \$]",
 "^Einsam[ \$]",
 "^Eladio[ \$]",
