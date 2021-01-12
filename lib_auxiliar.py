@@ -942,6 +942,7 @@ NOMBRES_MAS = (
 "^Milla[ \$]",
 "^Mill[áa]n[ \$]",
 "^Milton[ \$]",
+"^Miquel[ \$]",
 "^Misael[ \$]",
 "^Moctezuma[ \$]",
 "^Modesto[ \$]",
