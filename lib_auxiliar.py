@@ -890,6 +890,7 @@ NOMBRES_MAS = (
 "^Manque[ \$]",
 "^Manrique[ \$]",
 "^Manuel[ \$]",
+"^Marc[ \$]",  
 "^Marcelino[ \$]",
 "^Marcelo[ \$]",
 "^Marcial[ \$]",
