@@ -840,6 +840,7 @@ NOMBRES_MAS = (
 "^Lionel[ \$]",
 "^Lisandro[ \$]",
 "^Lisardo[ \$]",
+"^Lito[ \$]",
 "^Liu[ \$]",
 "^Livio[ \$]",
 "^Llanca[ \$]",
