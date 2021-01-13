@@ -191,6 +191,7 @@ NOMBRES_MAS = (
 "^Armand[ \$]",
 "^Armando[ \$]",
 "^Arnaldo[ \$]",
+"^Arni[ \$]",
 "^Arnoldo[ \$]",
 "^Arqu[íi]medes[ \$]",
 "^Arsenio[ \$]",
