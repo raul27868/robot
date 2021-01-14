@@ -719,6 +719,7 @@ NOMBRES_MAS = (
 "^Igor[ \$]",
 "^Iguen[ \$]",
 "^Ihuen[ \$]",
+"^Iker[ \$]",
 "^Ildefonso[ \$]",
 "^Imanol[ \$]",
 "^Iñaki[ \$]",
