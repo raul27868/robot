@@ -782,7 +782,7 @@ NOMBRES_MAS = (
 "^Juanjose[ \$]",
 "^Juanma[ \$]",
 "^Juli[áa]n[ \$]",
-"^Julio [ \$]",
+"^Julio[ \$]",
 "^Justiniano[ \$]",
 "^Justino[ \$]",
 "^Justo[ \$]",
