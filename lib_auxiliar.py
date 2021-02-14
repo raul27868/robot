@@ -111,6 +111,7 @@ NOMBRES_MAS = (
 "^Adonis[ \$]",
 "^Adri[áa]n[ \$]",
 "^Adriano[ \$]",
+"^Adriel[ \$]",
 "^Adulfo[ \$]",
 "^Africano[ \$]",
 "^Afrodisio[ \$]",
