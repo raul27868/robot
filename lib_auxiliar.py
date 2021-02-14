@@ -747,6 +747,7 @@ NOMBRES_MAS = (
 "^Ivo[ \$]",
 "^Jabel[ \$]",
 "^Jacinto[ \$]",
+"^Jack[ \$]",
 "^Jacob[ \$]",
 "^Jacobo[ \$]",
 "^Jael[ \$]",
