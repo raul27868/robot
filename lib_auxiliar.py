@@ -166,6 +166,7 @@ NOMBRES_MAS = (
 "^Anastasio[ \$]",
 "^Andr[ée]s[ \$]",
 "^Andrei[ \$]",
+"^Andy[ \$]",
 "^Angel[ \$]",
 "^An[íi]bal[ \$]",
 "^Aniceto[ \$]",
